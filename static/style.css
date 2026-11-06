@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(59, 58, 58);
+}
+.player{
+    text-align: center;
+}
+.player1{
+    width: 100%;
+    max-width: 450px;
+    aspect-ratio: 9/12;
+}
+.BTN{
+    text-align: center;
+}
+.BTN1{
+    background-color: grey;
+}
